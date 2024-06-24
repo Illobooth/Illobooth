@@ -2,7 +2,7 @@
 /* CSS Document */
 
 a:link {
-	color: #000; 
+	color: #000;
 	text-decoration: none;
 }
 
@@ -36,7 +36,7 @@ p {
 }
 
 html {
-	text-align: center; 
+	text-align: center;
 	background-color: #e6e6e6;
 	overflow-y: scroll;
 }
@@ -52,119 +52,119 @@ body {
 	color: #000;
 }
 
-#header { 
+#header {
 	padding-top: 10px;
 	width: 950px;
 	height: 150px;
 }
 
-#homemain { 
+#homemain {
 	width: 950px;
-	height: 550px; 
+	height: 550px;
 	background-image: url(assets/images/home%20background.jpg);
 }
 
-#illustrationmain { 
+#illustrationmain {
 	width: 950px;
-	height: 950px; 
+	height: 950px;
 	background-image: url(assets/images/illustration%20background.jpg);
 }
 
-#graphicsmain { 
+#graphicsmain {
 	width: 950px;
-	height: 950px; 
+	height: 950px;
 	background-image: url(assets/images/graphics%20background.jpg);
 }
 
-#profilemain { 
+#profilemain {
 	width: 950px;
-	height: 550px; 
+	height: 550px;
 	background-image: url(assets/images/profile%20background.gif);
 }
 
-#contactmain { 	
+#contactmain {
 	width: 950px;
-	height: 550px; 
+	height: 550px;
 	background-image: url(assets/images/contact%20background.jpg);
 }
 
-#oldworkmain { 
+#oldworkmain {
 	width: 950px;
-	height: 950px; 
+	height: 950px;
 	background-image: url(assets/images/old%20work%20background.jpg);
 }
 
-#cpamain { 
+#cpamain {
 	width: 950px;
-	height: 865px; 
+	height: 865px;
 	background-image: url(assets/images/cpa%20background.jpg);
 }
 
-#mimomain { 
+#mimomain {
 	width: 950px;
-	height: 865px; 
+	height: 865px;
 	background-image: url(assets/images/mimo%20background.jpg);
 }
 
-#weddingmain { 
+#weddingmain {
 	width: 950px;
-	height: 865px; 
+	height: 865px;
 	background-image: url(assets/images/wedding%20background.jpg);
 }
 
-#buttonmain { 
+#buttonmain {
 	width: 950px;
-	height: 865px; 
+	height: 865px;
 	background-image: url(assets/images/button%20background.jpg);
 }
 
-#evergreenbrandingmain { 
+#evergreenbrandingmain {
 	width: 950px;
-	height: 865px; 
+	height: 865px;
 	background-image: url(assets/images/evergreen%20branding%20background.jpg);
 }
 
-#evergreenchristmasmain { 
+#evergreenchristmasmain {
 	width: 950px;
-	height: 865px; 
+	height: 865px;
 	background-image: url(assets/images/evergreen%20christmas%20background.jpg);
 }
 
-#rapanuimain { 
+#rapanuimain {
 	width: 950px;
-	height: 865px; 
+	height: 865px;
 	background-image: url(assets/images/rapanui%20background.jpg);
 }
 
-#homecontent { 
-	float: left; 
-	width: 300px; 
-	height: 500px; 
-	text-align: left;
-}
-
-#profilecontent { 
-	float: left; 
-	width: 250px; 
-	height: 420px;
-	padding: 40px; 
-	text-align: left;
-	overflow: hidden;
-}
-
-#contactcontent { 
-	float: left; 
-	width: 950px; 
+#homecontent {
+	float: left;
+	width: 300px;
 	height: 500px;
-	padding: 0px; 
+	text-align: left;
+}
+
+#profilecontent {
+	float: left;
+	width: 250px;
+	height: 420px;
+	padding: 40px;
 	text-align: left;
 	overflow: hidden;
 }
 
-#subcontent { 	
-	float: right; 
-	width: 250px; 
-	height: 420px; 
+#contactcontent {
+	float: left;
+	width: 950px;
+	height: 500px;
+	padding: 0px;
+	text-align: left;
+	overflow: hidden;
+}
+
+#subcontent {
+	float: right;
+	width: 250px;
+	height: 420px;
 	padding: 40px;
 	text-align: left;
 	overflow: hidden;
@@ -184,7 +184,7 @@ body {
 	margin: 0 auto;
 }
 
-#footer { 
+#footer {
 	float: right;
 	width: 950px;
 	height: 50px;
@@ -250,7 +250,7 @@ body {
 	height: 200px;
 	margin: 0 auto;
 }
-				
+
 .galleryspacer {
 	width: 950px;
 	height: 50px;
@@ -271,7 +271,7 @@ body {
 }
 
 #galleria {
-	  height: 800px;
+	height: 800px;
 }
 
 .galleria {
