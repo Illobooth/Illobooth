@@ -1,0 +1,282 @@
+@charset "utf-8";
+/* CSS Document */
+
+a:link {
+	color: #000; 
+	text-decoration: none;
+}
+
+a:visited {
+	color: #000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #666;
+	text-decoration: underline;
+}
+
+div.c1 {
+	text-align: right;
+}
+
+p.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	padding-bottom: 2px;
+	color: #000;
+	margin: 0 auto;
+}
+
+p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	margin: 0 auto;
+}
+
+html {
+	text-align: center; 
+	background-color: #e6e6e6;
+	overflow-y: scroll;
+}
+
+body {
+	position: relative;
+	width: 950px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 1.2;
+	color: #000;
+}
+
+#header { 
+	padding-top: 10px;
+	width: 950px;
+	height: 150px;
+}
+
+#homemain { 
+	width: 950px;
+	height: 550px; 
+	background-image: url(assets/images/home%20background.jpg);
+}
+
+#illustrationmain { 
+	width: 950px;
+	height: 950px; 
+	background-image: url(assets/images/illustration%20background.jpg);
+}
+
+#graphicsmain { 
+	width: 950px;
+	height: 950px; 
+	background-image: url(assets/images/graphics%20background.jpg);
+}
+
+#profilemain { 
+	width: 950px;
+	height: 550px; 
+	background-image: url(assets/images/profile%20background.gif);
+}
+
+#contactmain { 	
+	width: 950px;
+	height: 550px; 
+	background-image: url(assets/images/contact%20background.jpg);
+}
+
+#oldworkmain { 
+	width: 950px;
+	height: 950px; 
+	background-image: url(assets/images/old%20work%20background.jpg);
+}
+
+#cpamain { 
+	width: 950px;
+	height: 865px; 
+	background-image: url(assets/images/cpa%20background.jpg);
+}
+
+#mimomain { 
+	width: 950px;
+	height: 865px; 
+	background-image: url(assets/images/mimo%20background.jpg);
+}
+
+#weddingmain { 
+	width: 950px;
+	height: 865px; 
+	background-image: url(assets/images/wedding%20background.jpg);
+}
+
+#buttonmain { 
+	width: 950px;
+	height: 865px; 
+	background-image: url(assets/images/button%20background.jpg);
+}
+
+#evergreenbrandingmain { 
+	width: 950px;
+	height: 865px; 
+	background-image: url(assets/images/evergreen%20branding%20background.jpg);
+}
+
+#evergreenchristmasmain { 
+	width: 950px;
+	height: 865px; 
+	background-image: url(assets/images/evergreen%20christmas%20background.jpg);
+}
+
+#rapanuimain { 
+	width: 950px;
+	height: 865px; 
+	background-image: url(assets/images/rapanui%20background.jpg);
+}
+
+#homecontent { 
+	float: left; 
+	width: 300px; 
+	height: 500px; 
+	text-align: left;
+}
+
+#profilecontent { 
+	float: left; 
+	width: 250px; 
+	height: 420px;
+	padding: 40px; 
+	text-align: left;
+	overflow: hidden;
+}
+
+#contactcontent { 
+	float: left; 
+	width: 950px; 
+	height: 500px;
+	padding: 0px; 
+	text-align: left;
+	overflow: hidden;
+}
+
+#subcontent { 	
+	float: right; 
+	width: 250px; 
+	height: 420px; 
+	padding: 40px;
+	text-align: left;
+	overflow: hidden;
+}
+
+#greeting {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000;
+	margin: 0 auto;
+}
+
+#banter {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	margin: 0 auto;
+}
+
+#footer { 
+	float: right;
+	width: 950px;
+	height: 50px;
+	padding-top: 10px;
+}
+
+#flashcontent {
+	padding-top: 15px;
+	width: 950px;
+	height: 600px;
+}
+
+#flashleftcontent {
+	float: left;
+	width: 200px;
+	height: 150px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+}
+
+#flashrightcontent {
+	float: left;
+	width: 200px;
+	height: 150px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+}
+
+#flashcaption {
+	text-align: center;
+	float: left;
+	width: 450px;
+	height: 200px;
+	margin: 0 auto;
+}
+
+#videocontent {
+	padding-top: 15px;
+	width: 950px;
+	height: 600px;
+}
+
+#videoleftcontent {
+	float: left;
+	width: 200px;
+	height: 150px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+}
+
+#videorightcontent {
+	float: left;
+	width: 200px;
+	height: 150px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+}
+
+#videocaption {
+	text-align: center;
+	float: left;
+	width: 450px;
+	height: 200px;
+	margin: 0 auto;
+}
+				
+.galleryspacer {
+	width: 950px;
+	height: 50px;
+}
+
+#galleryleft {
+	float: left;
+	width: 135px;
+	height: 250px;
+	padding-top: 550px;
+}
+
+#galleryright {
+	float: right;
+	width: 135px;
+	height: 250px;
+	padding-top: 550px;
+}
+
+#galleria {
+	  height: 800px;
+}
+
+.galleria {
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	width: 600px;
+	margin: 0 auto;
+}
